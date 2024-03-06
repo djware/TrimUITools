@@ -40,3 +40,10 @@ cd trimui-smart-pro-tools
 pip install -r requirements.txt
 # Run the application
 python main.py
+```
+
+
+<p align="center">
+  Made with ❤️ by djware
+</p>
+```
