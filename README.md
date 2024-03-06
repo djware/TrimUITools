@@ -29,7 +29,7 @@
     - Format: `.bmp`
     - Size: Under 6 MB
     - Resolution: Up to 1280x720px
-    - 
+    
 ![logo](https://github.com/djware/TrimUITools/assets/85318457/984e3cf0-b26b-4869-a449-0b93e74f4805)
 
 ## 🛠 More Tools Coming Soon!
