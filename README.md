@@ -46,14 +46,11 @@ Stay tuned for more exciting tools designed to enhance your TrimUI Smart Pro exp
 ## 📥 Installation
 
 ```bash
-# Clone this repository
-git clone <repository-link>
-# Navigate to the repository
-cd trimui-smart-pro-tools
-# Install dependencies
-pip install -r requirements.txt
-# Run the application
-python main.py
+Copy the folders inside the Tools folder to /SDCARD/Apps/
+📁 /mnt/SDCARD/Apps/
+
+└── 📁Reboot
+└── 📁Bootlogos
 ```
 
 
