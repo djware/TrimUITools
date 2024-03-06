@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Enhance your device with seamless utility tools.</strong><br>
-  Created to elevate your TrimUI Smart Pro experience.
+  <strong>Simple tools for TrimUI Smart Pro console</strong><br>
 </p>
 
 ---
