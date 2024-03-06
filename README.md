@@ -50,7 +50,7 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 📁 /mnt/SDCARD/Apps/
 
 └── 📁Reboot
-└── 📁Bootlogos
+└── 📁Bootlogo
 ```
 
 
