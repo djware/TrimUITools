@@ -9,6 +9,7 @@
 
 <p align="center">
   <strong>Simple tools for TrimUI Smart Pro console</strong><br>
+  Not responsible for anything that happens to your device. 
 </p>
 
 ---
