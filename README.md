@@ -18,7 +18,9 @@
 
 ![reboot](https://github.com/djware/TrimUITools/assets/85318457/d926453a-d7ec-4339-9a0f-2071b4a80ca9)
 - **Reboot App**: Restart your device with ease and efficiency.
+---
 
+![bootlogo](https://github.com/djware/TrimUITools/assets/85318457/5a60d189-3851-4a20-85ac-72e0240fe586)
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
 
   - **Requirements**: 
