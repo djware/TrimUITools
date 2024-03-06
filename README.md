@@ -26,6 +26,7 @@
 <b>Add your image to the root of your SDCARD and rename it to logo. It has to be in .bmp format. Should look like logo.bmp</b>
 
 📁 /mnt/SDCARD/
+
 └── 🖼️ logo.bmp
 
   - **Requirements**: 
