@@ -1,0 +1,7 @@
+{
+"label":"BootLogo",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Copy the usr folder from NAND to the dump folder."
+}
