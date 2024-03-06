@@ -23,6 +23,8 @@
 ![bootlogo](https://github.com/djware/TrimUITools/assets/85318457/5a60d189-3851-4a20-85ac-72e0240fe586)
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
 
+Add your image to the root of your SDCARD and rename it to logo. It has to be in .bmp format. Should look like logo.bmp
+
   - **Requirements**: 
     - Format: `.bmp`
     - Size: Under 6 MB
