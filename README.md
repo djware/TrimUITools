@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/python-3.6+-blue.svg" />
   <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" />
   <img src="https://img.shields.io/badge/license-MIT-green" />
 </p>
