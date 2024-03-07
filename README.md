@@ -34,16 +34,10 @@
     - Size: Under 6 MB
     - Resolution: Up to 1280x720px
 
-<p align="center">  <b>Example logos</b> </p>
 <p align="center">
   <img src="https://github.com/djware/TrimUITools/assets/85318457/984e3cf0-b26b-4869-a449-0b93e74f4805" alt="logo">
 </p>
-<p align="center">
-    <img src="https://github.com/djware/TrimUITools/assets/85318457/10c2f15d-2c78-4015-b950-e80791d7938f" alt="logo">
-</p>
-<p align="center">
-  <img src="https://github.com/djware/TrimUITools/assets/85318457/2a0e75c7-edf8-4f9a-99af-692d5fed15b4" alt="logo">
-</p>
+
 ## 🛠 More Tools Coming Soon!
 
 Stay tuned for more exciting tools designed to enhance your TrimUI Smart Pro experience.
