@@ -34,9 +34,8 @@
     - Size: Under 6 MB
     - Resolution: Up to 1280x720px
 
-
+<p align="center">  <b>Example logos</b> </p>
 <p align="center">
-  <b>Example logos</b>
   <img src="https://github.com/djware/TrimUITools/assets/85318457/984e3cf0-b26b-4869-a449-0b93e74f4805" alt="logo">
 
   ![logo2](https://github.com/djware/TrimUITools/assets/85318457/10c2f15d-2c78-4015-b950-e80791d7938f)
