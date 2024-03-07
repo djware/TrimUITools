@@ -36,6 +36,7 @@
 
 <p align="center">
   <img src="https://github.com/djware/TrimUITools/assets/85318457/984e3cf0-b26b-4869-a449-0b93e74f4805" alt="logo">
+  Example logo
 </p>
 
 ## 🛠 More Tools Coming Soon!
