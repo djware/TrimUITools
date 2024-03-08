@@ -27,7 +27,7 @@
 
 This app formats and unlocks the UDISK partition allowing you to access 7 GB of local storage on your device to store Apps, Emulators, and more. 
 The app formats UDISK in fat32, backs up your data, and restores the user data to it. This will also remove the internal usb_storage app and replace it with a 
-updated usb_storage app allows you to mount both SDCARD and UDISK to your computer at the same time. 
+updated usb_storage app which allows you to mount both SDCARD and UDISK to your computer at the same time. 
 
 Extract files to your SDCARD and run UDISK.
 ## 📥 Installation
