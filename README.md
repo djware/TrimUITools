@@ -25,6 +25,20 @@
 **USE AT YOUR OWN RISK, THIS FORMATS UDISK PARTITION**
 </p>
 
+This app formats and unlocks the UDISK partition allowing you to access 7 GB of local storage on your device to store Apps, Emulators, and more. 
+Extract files to your SDCARD and run UDISK. The app formats UDISK in fat32, backs up your data, and restores the user data to it. This will also remove the internal usb_storage app and replace it with a 
+updated usb_storage app allows you to mount both SDCARD and UDISK to your computer at the same time. 
+## 📥 Installation
+
+```bash
+Copy the folders inside the Tools folder to /SDCARD/Apps/
+📁 /mnt/SDCARD/Apps/
+└── 📁UDISK
+📁 /mnt/SDCARD/usb_storage
+
+```
+
+
 ---
 ![bootlogo](https://github.com/djware/TrimUITools/assets/85318457/5a60d189-3851-4a20-85ac-72e0240fe586)
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
