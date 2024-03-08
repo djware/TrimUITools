@@ -34,7 +34,7 @@ updated usb_storage app which allows you to mount both SDCARD and UDISK to your 
 ![image](https://github.com/djware/TrimUITools/assets/85318457/86fb5a8c-9551-42ac-896f-9811df58a00f)
 
 
-Extract files to your SDCARD and run UDISK.
+Extract files to your SDCARD and run the UDISK app. It runs in the background and you may see screen dim for a moment. After its complete you can launch usb_storage app. 
 ## 📥 Installation
 
 ```bash
