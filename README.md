@@ -24,6 +24,7 @@
 <p align="center">
 **USE AT YOUR OWN RISK, THIS FORMATS UDISK PARTITION**
 </p>
+
 ---
 ![bootlogo](https://github.com/djware/TrimUITools/assets/85318457/5a60d189-3851-4a20-85ac-72e0240fe586)
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
