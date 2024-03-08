@@ -35,6 +35,7 @@ updated usb_storage app which allows you to mount both SDCARD and UDISK to your 
 
 
 Extract files to your SDCARD and run the UDISK app. It runs in the background and you may see screen dim for a moment. After its complete you can launch usb_storage app. 
+<b>Only needs to be ran once.</b>
 ## 📥 Installation
 
 ```bash
