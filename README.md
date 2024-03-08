@@ -53,6 +53,7 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
 
 <b>Add your image to the root of your SDCARD and rename it to logo. It has to be in .bmp format. Should look like logo.bmp</b>
+Might take a few trys
 
 📁 /mnt/SDCARD/
 
