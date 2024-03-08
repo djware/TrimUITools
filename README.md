@@ -81,7 +81,7 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 └── 📁Bootlogo
 ```
 
-
+Log files are stored on SDCARD
 <p align="center">
   Made with ❤️ by djware
 </p>
