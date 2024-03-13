@@ -40,7 +40,7 @@ Extract files to your SDCARD and run the UDISK app. It runs in the background an
 ## 📥 Installation
 
 ```bash
-Copy the folders inside the Tools folder to /SDCARD/Apps/ and usb_storage ro the root of the SDCARD /SDCARD
+Copy the folders inside the Tools folder to /SDCARD/Apps/ and usb_storage to the root of the SDCARD /SDCARD
 📁 /mnt/SDCARD/Apps/
 └── 📁UDISK
 📁 /mnt/SDCARD/usb_storage
