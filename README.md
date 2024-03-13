@@ -29,7 +29,7 @@
 ![image](https://github.com/djware/TrimUITools/assets/85318457/bf762dc9-a96b-48ae-a332-0cf3e75eb4fd)
 
 This app formats and unlocks the UDISK partition allowing you to access 6 GB of local storage on your device to store Apps, Emulators, and more. 
-The app formats UDISK in fat32, backs up your data, and restores the user data to it. This will also remove the internal usb_storage app and replace it with a 
+The app backs up your data, formats UDISK in fat32, and restores the user data to it. This will also remove the internal usb_storage app and replace it with a 
 updated usb_storage app which allows you to mount both SDCARD and UDISK to your computer at the same time or just UDISK if you don't have a SDCARD in. You can download the core SD files to use them on /mnt/UDISK. https://github.com/trimui/assets_smartpro
 
 ![image](https://github.com/djware/TrimUITools/assets/85318457/86fb5a8c-9551-42ac-896f-9811df58a00f)
