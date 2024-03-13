@@ -30,7 +30,7 @@
 
 This app formats and unlocks the UDISK partition allowing you to access 6 GB of local storage on your device to store Apps, Emulators, and more. 
 The app formats UDISK in fat32, backs up your data, and restores the user data to it. This will also remove the internal usb_storage app and replace it with a 
-updated usb_storage app which allows you to mount both SDCARD and UDISK to your computer at the same time or just UDISK if you don't have a SDCARD in.
+updated usb_storage app which allows you to mount both SDCARD and UDISK to your computer at the same time or just UDISK if you don't have a SDCARD in. You can download the core SD files to use them on /mnt/UDISK. https://github.com/trimui/assets_smartpro
 
 ![image](https://github.com/djware/TrimUITools/assets/85318457/86fb5a8c-9551-42ac-896f-9811df58a00f)
 
@@ -53,7 +53,7 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 - **Bootlogo Updater**: Customize your startup experience by updating the boot image to a photo of your choice.
 
 <b>Add your image to the root of your SDCARD and rename it to logo. It has to be in .bmp format. Should look like logo.bmp</b>
-Might take a few trys
+Might take a few trys You can have the logo on either /mnt/SDCARD or /mnt/UDISK. 
 
 📁 /mnt/SDCARD/
 
