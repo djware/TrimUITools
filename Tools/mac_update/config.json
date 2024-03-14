@@ -1,0 +1,7 @@
+{
+"label":"Mac Update",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Updates the mac address to be static"
+}
