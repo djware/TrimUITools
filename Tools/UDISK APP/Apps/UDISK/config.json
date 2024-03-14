@@ -1,0 +1,7 @@
+{
+"label":"UDISK",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Formats UDISK and makes viewable."
+}
