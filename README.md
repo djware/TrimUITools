@@ -19,6 +19,10 @@
 ![reboot](https://github.com/djware/TrimUITools/assets/85318457/d926453a-d7ec-4339-9a0f-2071b4a80ca9)
 - **Reboot App**: Restart your device with ease and efficiency.
 ---
+![icon](https://github.com/djware/TrimUITools/assets/85318457/ce17da98-3398-4b9f-96ba-e812559eecee)
+- **Mac Update**: updates the mac address to be static.
+---
+
 
 ![logo4](https://github.com/djware/TrimUITools/assets/85318457/3de61ce1-2126-48d9-8e13-5e7a08da9fc9)
 - **UDISK**: Unlocks the local storage on the device for you to use and access.
