@@ -23,7 +23,8 @@
 - **Mac Update**: updates the mac address to be static.
 ---
 ![ledtemp](https://github.com/djware/TrimUITools/assets/85318457/09741147-8560-4230-883c-c178dd75b4e8)
-- **LED Temp**: This app changes the colors of the LEDs to reflect the color of the CPU. 
+- **LED Temp**: This app changes the colors of the LEDs to reflect the color of the CPU.
+ ```bash
 Temps under 40 degrees show Green
 Temps between 40-45 degrees show Chartreuse Green
 Temps between 45-50 degrees show Yellow
@@ -32,6 +33,7 @@ Temps between 55-60 degrees show Dark Oragen
 Temps between 60-65 degrees show Red Orange
 Temps between 65-70 degrees show Vermilion
 Temps over 70 degrees show red
+```
 ---
 
 ![logo4](https://github.com/djware/TrimUITools/assets/85318457/3de61ce1-2126-48d9-8e13-5e7a08da9fc9)
