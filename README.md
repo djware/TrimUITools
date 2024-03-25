@@ -35,6 +35,19 @@ Temps between 65-70 degrees show Vermilion
 Temps over 70 degrees show red
 ```
 ---
+![batlogo](https://github.com/djware/TrimUITools/assets/85318457/db2a28f4-9070-4c4d-bec2-7954ef520bc0)
+- **LED Batt**: This app changes the colors of the LEDs to reflect the percent left on the battery.
+ ```bash
+        100|9[0-9]) set_led_color 0 255 0 ;; # Green
+        8[0-9]|7[0-9]) set_led_color 127 255 0 ;; # Chartreuse Green
+        6[0-9]) set_led_color 255 255 0 ;; # Yellow
+        5[0-9]) set_led_color 255 165 0 ;; # Orange
+        4[0-9]) set_led_color 255 140 0 ;; # Dark Orange
+        3[0-9]) set_led_color 255 69 0 ;; # Red Orange
+        2[0-9]) set_led_color 255 20 0 ;; # Vermilion
+        *) set_led_color 255 0 0 ;; # Red
+```
+---
 
 ![logo4](https://github.com/djware/TrimUITools/assets/85318457/3de61ce1-2126-48d9-8e13-5e7a08da9fc9)
 - **UDISK**: Unlocks the local storage on the device for you to use and access.
