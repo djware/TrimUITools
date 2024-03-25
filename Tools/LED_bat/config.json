@@ -1,0 +1,7 @@
+{
+"label":"LEDBat",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Changes color of LEDS to reflect CPU temp"
+}
