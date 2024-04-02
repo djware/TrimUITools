@@ -16,6 +16,10 @@
 
 ## 🚀 Tools
 
+![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
+- **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. 
+---
+
 ![reboot](https://github.com/djware/TrimUITools/assets/85318457/d926453a-d7ec-4339-9a0f-2071b4a80ca9)
 - **Reboot App**: Restart your device with ease and efficiency.
 ---
