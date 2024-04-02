@@ -1,0 +1,7 @@
+{
+"label":"ftp enable",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"enables ftp at boot. Only needs to be ran once"
+}
