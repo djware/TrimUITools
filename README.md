@@ -19,7 +19,7 @@
 ![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
 - **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. 
 ---
-![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
+![maxcpu](https://github.com/djware/TrimUITools/assets/85318457/8ea8c75d-8995-47ba-935e-6e266c69cf2c)
 - **Max CPU**: This app forces the device to use Performance mode at all times. This can be useful incase you haven't setup performance mode, hit the FN Button, reset the device, or did an update it and it removed user data. This runs a script in the background that tells the device to use its Performance mode even if its been changed. 
  ```bash
 Updates: echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
@@ -33,6 +33,7 @@ Updates: echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_gove
 ---
 ![Rainbowleds](https://github.com/djware/TrimUITools/assets/85318457/d84b670a-32d3-46fd-b7f4-f407e7760c0d)
 - **RainbowLEDS**: This app changes the colors of the LED to each color slowly in loop.
+
 ![ledtemp](https://github.com/djware/TrimUITools/assets/85318457/09741147-8560-4230-883c-c178dd75b4e8)
 - **LED Temp**: This app changes the colors of the LEDs to reflect the color of the CPU.
  ```bash
