@@ -33,7 +33,6 @@ Updates: echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_gove
 ---
 ![Rainbowleds](https://github.com/djware/TrimUITools/assets/85318457/d84b670a-32d3-46fd-b7f4-f407e7760c0d)
 - **RainbowLEDS**: This app changes the colors of the LED to each color slowly in loop.
-![RainbowLEDS](https://github.com/djware/TrimUITools/assets/85318457/612f9b3b-3cdf-4cdf-ac16-a63541552b99)
 
 ---
 ![ledtemp](https://github.com/djware/TrimUITools/assets/85318457/09741147-8560-4230-883c-c178dd75b4e8)
