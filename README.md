@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  Support me by buying a coffee: <a href="https://www.buymeacoffee.com/djware">Buy Me a Coffee ☕</a>
+  Support me by buying a coffee: <a href="https://www.buymeacoffee.com/djware">Buy Me a Coffee</a> ☕
 </p>
----
 
 ## 🚀 Tools
 
