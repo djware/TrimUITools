@@ -19,6 +19,9 @@
 ![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
 - **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. 
 ---
+![randomicon](https://github.com/djware/TrimUITools/assets/85318457/0f2aee38-2e48-4cdf-ba67-8644ad814dd6)
+- **Random Game**: This app chooses a random Emulator and Rom that matches that emulator. 
+---
 ![maxcpu](https://github.com/djware/TrimUITools/assets/85318457/8ea8c75d-8995-47ba-935e-6e266c69cf2c)
 - **Max CPU**: This app forces the device to use Performance mode at all times. This can be useful incase you haven't setup performance mode, hit the FN Button, reset the device, or did an update it and it removed user data. This runs a script in the background that tells the device to use its Performance mode even if its been changed.
 If successful the LEDs will change to the color green.
