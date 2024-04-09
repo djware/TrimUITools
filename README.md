@@ -12,6 +12,9 @@
   Not responsible for anything that happens to your device. 
 </p>
 
+<p align="center">
+  Support us by buying a coffee: <a href="https://www.buymeacoffee.com/djware">Buy Me a Coffee</a>
+</p>
 ---
 
 ## 🚀 Tools
