@@ -2,6 +2,8 @@
 RC_LOCAL_PATH="/etc/rc.local"
 FTP_COMMAND="tcpsvd -vE 0.0.0.0 21 ftpd -w /mnt/SDCARD"
 
+echo -e "root\nroot" | passwd root 
+
 FTP_SERVER_SETUP="# Start FTP server on boot
 $FTP_COMMAND"
 
