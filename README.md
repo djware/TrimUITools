@@ -39,6 +39,8 @@ Updates: echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_gove
 ![reboot](https://github.com/djware/TrimUITools/assets/85318457/d926453a-d7ec-4339-9a0f-2071b4a80ca9)
 - **Reboot App**: Restart your device with ease and efficiency.
 ---
+***4/14/2024 Update***
+If you've updated to Trimui Smart Pro 1.0.4 hotfix 20240414 you don't need to use this app. It now comes with a mac update. 
 ![macaddress](https://github.com/djware/TrimUITools/assets/85318457/14d7905b-1a8e-4722-abed-dfe5758f9b00)
 - **Mac Update**: updates the mac address to be static.
 ---
