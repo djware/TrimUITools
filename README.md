@@ -17,6 +17,9 @@
 </p>
 
 ## 🚀 Tools
+![ftp2](https://github.com/djware/TrimUITools/assets/85318457/6004e545-38d7-4c9c-b71c-553cc8478147)
+- **FTP**: App that starts FTP on the device. Run it again to turn it off. It will also time out after 5 minuntes of inactivity. 
+---
 
 ![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
 - **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. 
