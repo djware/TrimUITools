@@ -49,11 +49,11 @@ If you've updated to Trimui Smart Pro 1.0.4 hotfix 20240414 you don't need to us
 - **Mac Update**: updates the mac address to be static.
 ---
 ![Rainbowleds](https://github.com/djware/TrimUITools/assets/85318457/d84b670a-32d3-46fd-b7f4-f407e7760c0d)
-- **RainbowLEDS**: This app changes the colors of the LED to each color slowly in loop.
+- **RainbowLEDS**: This app changes the colors of the LED to each color slowly in loop. Run the app again to end it.
 ![trimuigif](https://github.com/djware/TrimUITools/assets/85318457/b400b949-bcbd-4e86-a8cd-9bc2011ccf46)
 ---
 ![ledtemp](https://github.com/djware/TrimUITools/assets/85318457/09741147-8560-4230-883c-c178dd75b4e8)
-- **LED Temp**: This app changes the colors of the LEDs to reflect the color of the CPU.
+- **LED Temp**: This app changes the colors of the LEDs to reflect the color of the CPU. Run the app again to end it.
  ```bash
 Temps under 40 degrees show Green
 Temps between 40-45 degrees show Chartreuse Green
@@ -66,7 +66,7 @@ Temps over 70 degrees show red
 ```
 ---
 ![batlogo](https://github.com/djware/TrimUITools/assets/85318457/db2a28f4-9070-4c4d-bec2-7954ef520bc0)
-- **LED Batt**: This app changes the colors of the LEDs to reflect the percent left on the battery.
+- **LED Batt**: This app changes the colors of the LEDs to reflect the percent left on the battery. Run the app again to end it.
  ```bash
         100|9[0-9]) set_led_color 0 255 0 ;; # Green
         8[0-9]|7[0-9]) set_led_color 127 255 0 ;; # Chartreuse Green
