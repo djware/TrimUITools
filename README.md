@@ -144,7 +144,7 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 ```
 
 Log files are stored on SDCARD
-
+## ✨ Tips
 If you're looking to create your own LED apps below are some functions to help you out. Built into the device. 
 ```
 [TRIMUI LED Animation driver] 
