@@ -144,6 +144,44 @@ Copy the folders inside the Tools folder to /SDCARD/Apps/
 ```
 
 Log files are stored on SDCARD
+
+If you're looking to create your own LED apps below are some functions to help you out. Built into the device. 
+```
+[TRIMUI LED Animation driver] 
+    max_scale : maxium LED brightness in dec [0 ~ tg5040 limit brightness 60] 
+    frame     : raw frames for total 23 XRGB 32bpp data 
+    frame_hex : frames for total 23 XRGB 32bpp data in hex format "RRGGBB RRGGBB RRGGBB ... RRGGBB " end with space. 
+    
+[usage of anim to function] 
+    effect_lr: Left and right joystick LEDS effect type. 
+    effect_l: Left joystick LEDS effect type. 
+    effect_r: Right joystick LEDS effect type. 
+    effect_m : middle LED effect type. 
+   (effect_x for a trigger of effect start) 
+    effect_names : show the effect types description. 
+    effect_duration_lr: Left and right joystick LEDS animation durations. 
+    effect_duration_l: Left joystick LEDS animation durations. 
+    effect_duration_r: Right joystick LEDS animation durations. 
+    effect_duration_m : middle LED effect duration. 
+    effect_rgb_hex_lr: Left and right LED all target color in format "RRGGBB " end with space. 
+    effect_rgb_hex_l: Left LED all target color in format "RRGGBB " end with space. 
+    effect_rgb_hex_r: Left LED all target color in format "RRGGBB " end with space. 
+    effect_rgb_hex_m: Middle LED target color in format "RRGGBB " end with space. 
+    effect_cycles_lr: Left and right joystick LEDS animation loops. 
+    effect_cycles_l: Left joystick LEDS animation loops. 
+    effect_cycles_r: Right joystick LEDS animation loops. 
+    effect_cycles_m : middle LED effect loops. 
+   (cycles value: 0 for stop, -1 for endless loop, > 0 for loop times) 
+    effect_enable   : toggle of anim to function 
+	 
+[usage of framebuffer animation function !!Did not finish yet!!] 
+    anim_frames:       raw frames for total XRGB 32bpp data, buffer length 10 sec@60fps, 23 data per frame. 
+    anim_frames_hex:   same as anim_frames and use hex format "RRGGBB RRGGBB RRGGBB ... RRGGBB " end with space. 
+    anim_frames_cycle: animation loops count 
+    anim_frames_enable : toggle of frames anim function 
+    anim_frames_override_m_enable: toggle of middle LED in frames anim function. 
+```
+
 <p align="center">
   Made with ❤️ by djware
 </p>
