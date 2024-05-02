@@ -1,0 +1,13 @@
+Courtesy of HYJiNX187 and the guy that built the busybox binary:
+https://github.com/therealsaumil/static-arm-bins/blob/master/telnetd-static
+
+
+Note: This is designed for Tomato version 1.3 created by Jutleys of RGH 
+https://github.com/jutleys/Trimui-Smart-Tomato
+
+
+Copy the contents of this zip file into /Apps/
+Run Telnetd
+Connect to your Trimui Smart over port 23 using your favorite telnet client.
+
+WARNING: I am arbitrarily setting your root password to 'root'.  
