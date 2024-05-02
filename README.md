@@ -28,6 +28,7 @@
 - **Telnetd**: App that enables SSH on your device and also adds it to boot. Only needs to be ran once. It does reset your root credentials to be Username:root Password:root
 
 <b>I didn't make the telnetd app. I just created the script that adds it to the rc.local file so it runs at boot. </b>
+This script moves the telnetd-static file to /mnt/SDCARD and renames it to "telnetd" and then adds the line "/mnt/SDCARD/telnetd" to the top of the rc.local file. 
 ```
 Courtesy of HYJiNX187 and the guy that built the busybox binary:
 https://github.com/therealsaumil/static-arm-bins/blob/master/telnetd-static
@@ -41,7 +42,6 @@ Connect to your Trimui Smart over port 23 using your favorite telnet client.
 
 WARNING: I am arbitrarily setting your root password to 'root'.  
 ```
-This script moves the telnetd-static file to /mnt/SDCARD and renames it to "telnetd" and then adds the line "/mnt/SDCARD/telnetd" to the top of the rc.local file. 
 ---
 ![randomicon](https://github.com/djware/TrimUITools/assets/85318457/0f2aee38-2e48-4cdf-ba67-8644ad814dd6)
 - **Random Game**: This app chooses a random Emulator and Rom that matches that emulator.
