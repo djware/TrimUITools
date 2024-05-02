@@ -24,6 +24,23 @@
 ![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
 - **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. Run the app again to disable this option from boot. 
 ---
+![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
+- **Telnetd**: App that enables SSH on your device and also adds it to boot. Only needs to be ran once. It does reset your root credentials to be Username:root Password:root
+<b>I didn't make the telnetd app. I just created the script that adds it to the rc.local file so it runs at boot. </b>
+```
+Courtesy of HYJiNX187 and the guy that built the busybox binary:
+https://github.com/therealsaumil/static-arm-bins/blob/master/telnetd-static
+
+Note: This is designed for Tomato version 1.3 created by Jutleys of RGH 
+https://github.com/jutleys/Trimui-Smart-Tomato
+
+Copy the contents of this zip file into /Apps/
+Run Telnetd
+Connect to your Trimui Smart over port 23 using your favorite telnet client.
+
+WARNING: I am arbitrarily setting your root password to 'root'.  
+```
+---
 ![randomicon](https://github.com/djware/TrimUITools/assets/85318457/0f2aee38-2e48-4cdf-ba67-8644ad814dd6)
 - **Random Game**: This app chooses a random Emulator and Rom that matches that emulator.
 ```bash
