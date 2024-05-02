@@ -28,6 +28,7 @@
 - **Telnetd**: App that enables SSH on your device and also adds it to boot. Only needs to be ran once. It does reset your root credentials to be Username:root Password:root
 
 <b>I didn't make the telnetd app. I just created the script that adds it to the rc.local file so it runs at boot. </b>
+
 This script moves the telnetd-static file to /mnt/SDCARD and renames it to "telnetd" and then adds the line "/mnt/SDCARD/telnetd" to the top of the rc.local file. 
 ```
 Courtesy of HYJiNX187 and the guy that built the busybox binary:
