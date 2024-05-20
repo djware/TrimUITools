@@ -18,11 +18,14 @@
 
 ## 🚀 Tools
 ![ftp2](https://github.com/djware/TrimUITools/assets/85318457/6004e545-38d7-4c9c-b71c-553cc8478147)
-- **FTP**: App that starts FTP on the device. Run it again to turn it off. It will also time out after 5 minuntes of inactivity. 
+- **FTP**: App that starts FTP on the device. Run it again to turn it off. It will also time out after 5 minuntes of inactivity.
+- modify the code to set the root password
 ---
 
 ![iconftp](https://github.com/djware/TrimUITools/assets/85318457/c076b0af-af75-4e9c-94fe-89054457c265)
-- **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. Run the app again to disable this option from boot. 
+- **FTP Enable**: App that enables FTP on your device. Mounts the /mnt/SDCARD. Run then restart your device and your device will have ftp on all the time. Run the app again to disable this option from boot.
+- Username: root 
+- Password: root
 ---
 ![telnetd](https://github.com/djware/TrimUITools/assets/85318457/d1c2034d-343d-47b7-ac8c-ba05afa26d37)
 - **Telnetd**: App that enables you to have the ability to telnet to your device and also adds it to boot. Only needs to be ran once. It does reset your root credentials to be Username:root Password:root
