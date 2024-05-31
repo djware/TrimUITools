@@ -19,7 +19,7 @@
 ## 🚀 Tools
 ![ftp2](https://github.com/djware/TrimUITools/assets/85318457/6004e545-38d7-4c9c-b71c-553cc8478147)
 - **FTP**: App that starts FTP on the device. Run it again to turn it off. It will also time out after 5 minuntes of inactivity.
-- modify the code to set the root password. Remove the "#" and line 7
+- modify the code to set the root password. Remove the "#" at line 7
 ```
 # echo -e "root\nroot" | passwd root
 ```
